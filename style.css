@@ -19,6 +19,12 @@ body{
     padding: 15px;
 }
 
+.icons{
+    height: 30px;
+    width: 30px;
+    fill: white;
+}
+
 .logo{
     font-size: 3rem;
     font-weight: bolder;
